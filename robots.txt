@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-84cd4de062.rrlic.cn/sitemap.xml
